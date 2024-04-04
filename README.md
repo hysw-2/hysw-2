@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hysw-2/hysw-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Name
+### Dae-Young Kim
+
+## Education
+### Yeungnam University
+
+## Major
+### Computer Science and Engineering
